@@ -1,4 +1,4 @@
-# Projeto Gestor de Estoque
+# Projeto Cadastro e listagem de itens
 
 - Este projeto é um sistema simples de cadastro e listagem de itens desenvolvido em React. 
 
@@ -55,8 +55,6 @@ Um botão reutilizável para excluir itens.
 ![Passo 1](/img/passo1.png)
 
  Dá para vê que possui a opção de cadastrar item. Ao clicar nessa opção, abrirá uma nova página com as funcionalidades de cadastrar um novo item. 
-
-
 ![Passo 2](/img/passo2.png)
 
 Aqui em cadastrar um novo item, vê-se que tem todos os campos necessários para o cadastro, desde Nome até se está disponível ou não. 
@@ -92,10 +90,3 @@ Logo em seguida tem todas as informações do item, além também de poder atual
 Ao adicionar vários itens, percebe-se que os itens estão ordenados em ordem de menor preço ao de maior preço.
 
 ![Passo 11](/img/passo11.png)
-
-
-## Link para poder utilizar
-
-
- [Live Demo](https://valderlanjs.github.io/sistema_solar/) 
- 
