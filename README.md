@@ -1,8 +1,20 @@
-# Projeto Gestor de Estoque em ReactJS
+# Gestor de Estoque em ReactJS
 
-- Este projeto é um sistema simples de cadastro e listagem de itens desenvolvido em React. 
+## Tecnologias Utilizadas
 
-- Ele permite ao usuário listar, adicionar, atualizar e excluir itens da lsitagem.
+ - ReactJS
+ - JavaScript
+ - CSS
+ - HTML
+ - GIT
+
+## Autor
+ **Valderlan José da Silva** 
+
+# Aplicação
+
+ Esta aplicação SPA (Single Page Application), é um sistema de gestão de estoque, no qual, permite ao usuário listar, cadastrar, atualizar e excluir itens do estoque,
+ nela foi utilizado o reac-router-dom entre outras funcionalidades do ReactJS.
 
 ## Arquivos Principais
 
