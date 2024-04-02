@@ -1,4 +1,4 @@
-# Projeto Gestor de Estoque
+# Projeto Gestor de Estoque em ReactJS
 
 - Este projeto é um sistema simples de cadastro e listagem de itens desenvolvido em React. 
 
