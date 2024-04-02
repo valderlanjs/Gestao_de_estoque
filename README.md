@@ -55,6 +55,8 @@ Um botão reutilizável para excluir itens.
 ![Passo 1](/img/passo1.png)
 
  Dá para vê que possui a opção de cadastrar item. Ao clicar nessa opção, abrirá uma nova página com as funcionalidades de cadastrar um novo item. 
+
+
 ![Passo 2](/img/passo2.png)
 
 Aqui em cadastrar um novo item, vê-se que tem todos os campos necessários para o cadastro, desde Nome até se está disponível ou não. 
