@@ -109,5 +109,5 @@ Ao adicionar vários itens, percebe-se que os itens estão ordenados em ordem de
 ## Link para poder utilizar
 
 
- [Live Demo](https://valderlanjs.github.io/sistema_solar/) 
+ [Live Demo](https://gestao-de-estoque.vercel.app/) 
  
